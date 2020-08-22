@@ -57,5 +57,5 @@ Technologies:
 
 Estudando alguns algoritmos de machine learning com Python.
 
-* **Varrendo um diretório local, pegando todas as imagens (JPEG, JPG e PNG) e marcando as "faces" das pessoas encontradas:
-* **Capturando "frames" atravez da WebCam e usando Deep Learning a aplicação marca todas as "faces" encontradas.  
+* **Varrendo um diretório local, pegando todas as imagens (JPEG, JPG e PNG) e marcando as "faces" das pessoas encontradas:**
+* **Capturando "frames" atravez da WebCam e usando Deep Learning a aplicação marca todas as "faces" encontradas.**  
