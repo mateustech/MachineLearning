@@ -39,7 +39,7 @@
 
 ## :bookmark_tabs: Tecnologias
 
-Technologies used in the development of the project:
+Technologies:
 
 - [Python](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
@@ -52,7 +52,10 @@ Technologies used in the development of the project:
 <code><img height="30" src="https://static.wixstatic.com/media/e2c911_c305570da8764943bd74fbdc3b08b574~mv2.png/v1/fill/w_400,h_398,al_c,lg_1,q_85/numpy.webp"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/365630?v=2&s=400"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/small/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"></code>
+
 ## 💻 Projeto
 
-Descrição do Projeto
+Estudando alguns algoritmos de machine learning com Python.
 
+* **Varrendo um diretório local, pegando todas as imagens (JPEG, JPG e PNG) e marcando as "faces" das pessoas encontradas:
+* **Capturando "frames" atravez da WebCam e usando Deep Learning a aplicação marca todas as "faces" encontradas.  
