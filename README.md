@@ -48,9 +48,9 @@ Technologies used in the development of the project:
 - [Numpy](https://numpy.org/)
 
 <code><img height="30" src="https://vignette.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest/scale-to-width-down/340?cb=20130301171443"></code>
-<code><img height="30" src="https://binlivm470.files.wordpress.com/2017/02/scrapy.png"></code>
+<code><img height="30" src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png"></code>
 <code><img height="30" src="https://static.wixstatic.com/media/e2c911_c305570da8764943bd74fbdc3b08b574~mv2.png/v1/fill/w_400,h_398,al_c,lg_1,q_85/numpy.webp"></code>
-<code><img height="30" src="https://lh3.googleusercontent.com/proxy/SES1UVgVDibkkgAj9qkhBe_kj8mGDz6VHBMv_FA_35lZV4CsJfxG3AsA-PSFX0nLNHDrtuCdm8zS5l9Q669O7Oulzvikg1Rdkb4Aokg76-cf1_NAv_Yl_YJDcqYrHjzBA5VG6hk"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/365630?v=2&s=400"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/small/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png"></code>
 ## 💻 Projeto
 
